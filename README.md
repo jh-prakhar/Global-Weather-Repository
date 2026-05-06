@@ -2,6 +2,10 @@
 # Global Weather Trend Forecasting
 **Assessment for PM Accelerator**
 
+** Dataset
+The dataset is available on the Kaggle website. 
+World Weather Repository: https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code
+
 ## PM Accelerator Mission
 To promote and advance the field of Product Management through education, networking, and career development, empowering professionals to excel in their roles and drive innovation in their organizations.
 
