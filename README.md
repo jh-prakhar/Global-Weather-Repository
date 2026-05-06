@@ -23,7 +23,7 @@ This project analyzes the `GlobalWeatherRepository.csv` dataset to forecast weat
 - **Model Performance:** The Random Forest Regressor achieved an R2 score of 0.99, indicating high predictive accuracy.
 
 ## How to Run
-1. Clone this repository: `git clone <your-repo-url>`
+1. Clone this repository: `git clone <https://github.com/jh-prakhar/Global-Weather-Repository>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `weather_analysis.ipynb` in Jupyter Lab.
 4. Run all cells to generate analysis and visualizations.
