@@ -32,6 +32,6 @@ This project analyzes the `GlobalWeatherRepository.csv` dataset to forecast weat
 - `GlobalWeatherRepository.csv`: The source dataset.
 - `weather_analysis.ipynb`: Main analysis notebook.
 - `requirements.txt`: List of necessary Python packages.
-- `demo_video_link.md`: Link to the project walkthrough video.
+- `demo_video_link.md`: https://drive.google.com/file/d/12EJCbOnaiksShY9nKltuYMJ-1VeiCqJ3/view?usp=sharing
 - `Report`: Weather_Forecasting_Analysis_Report_Prakhar Jha.pdf
 
