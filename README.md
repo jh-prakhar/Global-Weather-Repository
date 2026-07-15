@@ -1,4 +1,3 @@
-# Global-Weather-Repository
 # Global Weather Trend Forecasting
 **Assessment for PM Accelerator**
 
